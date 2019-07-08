@@ -15,6 +15,6 @@ m=a*b
 print(m)
 #add particular value in each element
 a5=a+5
-print(a5)
+print(a5) # prnit the value of a5
 
 
