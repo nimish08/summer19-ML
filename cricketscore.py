@@ -10,4 +10,4 @@ plt.ylabel("runs")
 plt.bar(player,runs)
 plt.grid(color='green')  #to form grid in graph
 plt.legend #to show label with plot
-plt.show()
+plt.show() # it display the graph and remove ubwanted data
